@@ -1,4 +1,6 @@
-### Hi there 👋
+### Octopodes
+
+![logo](https://dev.octopodes.io/static/octopodes-logo-large.jpg)
 
 <!--
 **octopodes-io/octopodes-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
